@@ -1,6 +1,7 @@
 CIR License
 	Version 1.1, June 15 2022
 	Copyright (C) 2022 TG_Yuri
+	Original: https://github.com/Yuri010/CIR-License
 
 
 Everyone may copy, distribute and modify this work.
